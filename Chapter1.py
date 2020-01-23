@@ -12,8 +12,8 @@ print('\n ***if we leave out one of the quotation marks, or both, it gives a syn
 #Exercise 1.1.3
 print('\n***#Exercise 1.1.3***\n')
 a=2
-b=2
-print(a+b)
+b=3
+print(a*b)
 print('\n ***if you put a plus sign before a number(+2), it gives a syntax error*** \n')
 
 #Exercise 1.1.4
